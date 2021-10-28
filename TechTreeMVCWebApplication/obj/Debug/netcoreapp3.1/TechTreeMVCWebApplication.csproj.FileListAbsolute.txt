@@ -91,3 +91,4 @@ D:\TraningProjects\TechTreeMVCWebApplication\TechTreeMVCWebApplication\obj\Debug
 D:\TraningProjects\TechTreeMVCWebApplication\TechTreeMVCWebApplication\obj\Debug\netcoreapp3.1\TechTreeMVCWebApplication.dll
 D:\TraningProjects\TechTreeMVCWebApplication\TechTreeMVCWebApplication\obj\Debug\netcoreapp3.1\TechTreeMVCWebApplication.pdb
 D:\TraningProjects\TechTreeMVCWebApplication\TechTreeMVCWebApplication\obj\Debug\netcoreapp3.1\TechTreeMVCWebApplication.genruntimeconfig.cache
+D:\TraningProjects\TechTreeMVCWebApplication\TechTreeMVCWebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminMenuPartial.cshtml.g.cs
